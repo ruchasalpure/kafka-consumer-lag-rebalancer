@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "kafka-consumer-lag-rebalancer"
+version: "1.0.0"
+category: "devtools"
+author: "Rucha Salpure"
+description: "Forecasts partition consumer offset lag and dynamically computes zero-downtime cooperative sticky partition reassignments"
+capabilities:
+  - "partition-assignment-optimization"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "partition-assignment-optimization"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true

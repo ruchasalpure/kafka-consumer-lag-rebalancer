@@ -1,0 +1,4 @@
+spec: nanobot/v1
+name: kafka-consumer-lag-rebalancer
+runtime: python3.11
+entrypoint: agent.py

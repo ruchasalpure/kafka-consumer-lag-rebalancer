@@ -1,0 +1,5 @@
+{
+  "name": "kafka-consumer-lag-rebalancer",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}
