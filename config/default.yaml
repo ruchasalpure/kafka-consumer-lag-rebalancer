@@ -1,6 +1,0 @@
-app:
-  name: "kafka-consumer-lag-rebalancer"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

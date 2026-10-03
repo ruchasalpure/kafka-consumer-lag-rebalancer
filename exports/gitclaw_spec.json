@@ -1,5 +1,0 @@
-{
-  "protocol": "gitclaw-0.1",
-  "agent": "kafka-consumer-lag-rebalancer",
-  "visas": 15
-}

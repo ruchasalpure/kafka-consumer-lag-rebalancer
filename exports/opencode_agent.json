@@ -1,8 +1,0 @@
-{
-  "agent_id": "kafka-consumer-lag-rebalancer",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}
